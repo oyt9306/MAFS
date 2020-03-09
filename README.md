@@ -2,18 +2,19 @@
 
 This repository includes  the algorithms of MAFS(Motion-Adaptive Few-Shot) fault detection of the industrial robot gearboxes.
 
-Keywords) Industrial robot, Gearbox fault detection, Torque ripples, Residual convolutional neural network, Few-shot learning, 
-          Binary-Supervised Domain Adaptation, 1D guided grad-CAM
-
 * Detailed explanations are on my master's thesis paper.
 
 **1. Applications of the Industrial robots**
 
-![그림1](https://user-images.githubusercontent.com/41467632/76188998-e4799100-621c-11ea-8bbd-4dda9fa6d58f.png)
+![그림1](https://user-images.githubusercontent.com/41467632/76216517-122dfc80-6254-11ea-8af8-242ac46d9521.png)
 
 **2. The overall framework of the proposed MAFS based fault detection method**
 
-![그림2](https://user-images.githubusercontent.com/41467632/76189122-3c17fc80-621d-11ea-931c-333d29f26bbc.png)
+![그림2](https://user-images.githubusercontent.com/41467632/76216523-14905680-6254-11ea-93c6-1fcfb3c93667.png)
 
 **3. The detailed motion of the target 6-DOF industrial robot**
 ![Full_motion](https://user-images.githubusercontent.com/41467632/76216115-5cfb4480-6253-11ea-87a2-979e26965588.gif)
+
+<u>Keywords) Industrial robot, Gearbox fault detection, Torque ripples, Residual convolutional neural network, Few-shot learning, 
+          Binary-Supervised Domain Adaptation, 1D guided grad-CAM</u>
+
