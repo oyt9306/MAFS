@@ -6,7 +6,7 @@ This repository includes  the algorithms of MAFS(Motion-Adaptive Few-Shot) fault
 
 **1. Applications of the Industrial robots**
 
-![그림1](https://user-images.githubusercontent.com/41467632/76216517-122dfc80-6254-11ea-8af8-242ac46d9521.png)
+![그림1](https://user-images.githubusercontent.com/41467632/77718339-0600b800-7026-11ea-9d2a-9a514afcfb3b.png)
 
 **2. The overall framework of the proposed MAFS based fault detection method**
 
